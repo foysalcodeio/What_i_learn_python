@@ -1,0 +1,19 @@
+{
+    "area" : [
+        {
+            "name": "Bangladesh",
+            "abbreviation": "BL",
+            "area_codes": ["205", "251", "334"]
+        },
+        {
+            "name": "Alaska",
+            "abbreviation": "Ak",
+            "area_codes": ["907"]
+        },
+        {
+            "name": "asia",
+            "abbreviation": "AS",
+            "area_codes": ["480", "520", "928"]
+        }
+    ]
+}

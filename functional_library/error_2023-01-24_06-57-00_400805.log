@@ -1,0 +1,2 @@
+2023-01-24 06:57:00.416 | ERROR    | __main__:<module>:15 - A error message.
+2023-01-24 06:57:00.416 | CRITICAL | __main__:<module>:17 - A critical message.

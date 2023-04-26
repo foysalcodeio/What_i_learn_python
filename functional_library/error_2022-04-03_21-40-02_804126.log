@@ -1,0 +1,2 @@
+2022-04-03 21:40:02.856 | ERROR    | __main__:<module>:12 - A error message.
+2022-04-03 21:40:02.858 | CRITICAL | __main__:<module>:14 - A critical message.
